@@ -1,0 +1,78 @@
+{
+"items": [
+  {
+    "costPerHour": 225.5,
+    "code": "8432941",
+    "name": "Cattle Vaccination"
+  },
+  {
+    "unit": "bale",
+    "pricePerUnit": 500.0,
+    "code": "342foa3",
+    "name": "Haybale"
+  },
+  {
+    "costPerHour": 100.0,
+    "code": "2334b23",
+    "name": "Delivery"
+  },
+  {
+    "modelNumber": "Haymaker 400",
+    "code": "740515",
+    "name": "Baler"
+  },
+  {
+    "unit": "ton",
+    "pricePerUnit": 850.0,
+    "code": "23n4kl2",
+    "name": "Top soil"
+  },
+  {
+    "costPerHour": 25.0,
+    "code": "432kn2l",
+    "name": "Tractor Driving Lessons"
+  },
+  {
+    "modelNumber": "BidDoug X25",
+    "code": "3506f6",
+    "name": "Backhoe"
+  },
+  {
+    "costPerHour": 1000.0,
+    "code": "n43k2l3",
+    "name": "Plowing"
+  },
+  {
+    "modelNumber": "MegaTract 150HP",
+    "code": "1d4d89",
+    "name": "Tractor"
+  },
+  {
+    "unit": "bag",
+    "pricePerUnit": 50.0,
+    "code": "3n3k4l2",
+    "name": "Corn seed"
+  },
+  {
+    "unit": "lft",
+    "pricePerUnit": 8.0,
+    "code": "l4k32j4",
+    "name": "Wire fencing"
+  },
+  {
+    "modelNumber": "F105",
+    "code": "649f88",
+    "name": "Truck"
+  },
+  {
+    "modelNumber": "Husker 2000",
+    "code": "0ec6e9",
+    "name": "Harvester"
+  },
+  {
+    "unit": "liter",
+    "pricePerUnit": 10.25,
+    "code": "n3453js",
+    "name": "Fertilizer"
+  }
+]}

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<items>
+<service>
+  <code>8432941</code>
+  <name>Cattle Vaccination</name>
+  <costPerHour>225.5</costPerHour>
+</service>
+<product>
+  <code>342foa3</code>
+  <name>Haybale</name>
+  <unit>bale</unit>
+  <pricePerUnit>500.0</pricePerUnit>
+</product>
+<service>
+  <code>2334b23</code>
+  <name>Delivery</name>
+  <costPerHour>100.0</costPerHour>
+</service>
+<equipment>
+  <code>740515</code>
+  <name>Baler</name>
+  <modelNumber>Haymaker 400</modelNumber>
+</equipment>
+<product>
+  <code>23n4kl2</code>
+  <name>Top soil</name>
+  <unit>ton</unit>
+  <pricePerUnit>850.0</pricePerUnit>
+</product>
+<service>
+  <code>432kn2l</code>
+  <name>Tractor Driving Lessons</name>
+  <costPerHour>25.0</costPerHour>
+</service>
+<equipment>
+  <code>3506f6</code>
+  <name>Backhoe</name>
+  <modelNumber>BidDoug X25</modelNumber>
+</equipment>
+<service>
+  <code>n43k2l3</code>
+  <name>Plowing</name>
+  <costPerHour>1000.0</costPerHour>
+</service>
+<equipment>
+  <code>1d4d89</code>
+  <name>Tractor</name>
+  <modelNumber>MegaTract 150HP</modelNumber>
+</equipment>
+<product>
+  <code>3n3k4l2</code>
+  <name>Corn seed</name>
+  <unit>bag</unit>
+  <pricePerUnit>50.0</pricePerUnit>
+</product>
+<product>
+  <code>l4k32j4</code>
+  <name>Wire fencing</name>
+  <unit>lft</unit>
+  <pricePerUnit>8.0</pricePerUnit>
+</product>
+<equipment>
+  <code>649f88</code>
+  <name>Truck</name>
+  <modelNumber>F105</modelNumber>
+</equipment>
+<equipment>
+  <code>0ec6e9</code>
+  <name>Harvester</name>
+  <modelNumber>Husker 2000</modelNumber>
+</equipment>
+<product>
+  <code>n3453js</code>
+  <name>Fertilizer</name>
+  <unit>liter</unit>
+  <pricePerUnit>10.25</pricePerUnit>
+</product>
+</items>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<stores>
+<store>
+  <storeCode>96f2cf</storeCode>
+  <manager>
+    <personCode>fdc267</personCode>
+    <lastName>Quarry</lastName>
+    <firstName>Staci</firstName>
+    <address>
+      <street>601 Lotheville Road</street>
+      <city>Savannah</city>
+      <state>GA</state>
+      <country>US</country>
+      <zipCode>31405</zipCode>
+    </address>
+    <emails>
+      <email>squarry0@reverbnation.com</email>
+      <email>squarry0@salon.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>452 13th Street</street>
+    <city>Hastings</city>
+    <state>NE</state>
+    <country>US</country>
+    <zipCode>68901</zipCode>
+  </address>
+  <sales/>
+</store>
+<store>
+  <storeCode>25d901</storeCode>
+  <manager>
+    <personCode>aa887a</personCode>
+    <lastName>Leavold</lastName>
+    <firstName>Wit</firstName>
+    <address>
+      <street>65337 Straubel Place</street>
+      <city>Muncie</city>
+      <state>IN</state>
+      <country>US</country>
+      <zipCode>47306</zipCode>
+    </address>
+    <emails>
+      <email>wleavold2@npr.org</email>
+      <email>wleavold2@craigslist.org</email>
+    </emails>
+  </manager>
+  <address>
+    <street>180 Magdeline Plaza</street>
+    <city>Wichita</city>
+    <state>KS</state>
+    <country>US</country>
+    <zipCode>67230</zipCode>
+  </address>
+  <sales/>
+</store>
+<store>
+  <storeCode>3c0234</storeCode>
+  <manager>
+    <personCode>fdc267</personCode>
+    <lastName>Quarry</lastName>
+    <firstName>Staci</firstName>
+    <address>
+      <street>601 Lotheville Road</street>
+      <city>Savannah</city>
+      <state>GA</state>
+      <country>US</country>
+      <zipCode>31405</zipCode>
+    </address>
+    <emails>
+      <email>squarry0@reverbnation.com</email>
+      <email>squarry0@salon.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>123 Cornhusker Way</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <country>US</country>
+    <zipCode>68508</zipCode>
+  </address>
+  <sales/>
+</store>
+<store>
+  <storeCode>73668b</storeCode>
+  <manager>
+    <personCode>fdc267</personCode>
+    <lastName>Quarry</lastName>
+    <firstName>Staci</firstName>
+    <address>
+      <street>601 Lotheville Road</street>
+      <city>Savannah</city>
+      <state>GA</state>
+      <country>US</country>
+      <zipCode>31405</zipCode>
+    </address>
+    <emails>
+      <email>squarry0@reverbnation.com</email>
+      <email>squarry0@salon.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>RR9901</street>
+    <city>Mead</city>
+    <state>NE</state>
+    <country>US</country>
+    <zipCode>61234</zipCode>
+  </address>
+  <sales/>
+</store>
+<store>
+  <storeCode>9f352c</storeCode>
+  <manager>
+    <personCode>aa887a</personCode>
+    <lastName>Leavold</lastName>
+    <firstName>Wit</firstName>
+    <address>
+      <street>65337 Straubel Place</street>
+      <city>Muncie</city>
+      <state>IN</state>
+      <country>US</country>
+      <zipCode>47306</zipCode>
+    </address>
+    <emails>
+      <email>wleavold2@npr.org</email>
+      <email>wleavold2@craigslist.org</email>
+    </emails>
+  </manager>
+  <address>
+    <street>4242 A Street</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <country>US</country>
+    <zipCode>68117</zipCode>
+  </address>
+  <sales/>
+</store>
+</stores>
