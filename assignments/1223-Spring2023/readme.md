@@ -15,13 +15,3 @@
 6. Project Phase V - Database Connectivity -- Data Manipulation
 7. Project Phase VI - Data structure design
 8. Theory: algorithms & data structures
-
-
-TODO:
-- scripts
-
-
-To LAs:
- - changes/feedback on fall
- - troubleshoot scripts
- - Design doc overview to address prior issues
