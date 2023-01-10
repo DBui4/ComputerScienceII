@@ -282,7 +282,7 @@ assignments in the past that you should avoid:
 
 Grading will be based on the following items
 
-* Style (5)
+Style (5)
  *  Clean, well-organized and readable code
  *  Meaningful identifier names
  *  Proper use of whitespace
@@ -323,7 +323,7 @@ Correctness (50)
 
 Test Case(s) (15)
 
- *  A valid, non-trivial test case has been submitted with the correct file names, is well-formatted and correctly executed
+ *  A valid, non-trivial test case has been submitted with the correct file names, is well-formatted, and correctly executes
 
 Bonus/Honors Items (10 each)
 

@@ -233,8 +233,6 @@ three will have a total of 41 correctness points.
 
 -   Clean, readable code
 
--   Code is well-organized
-
 ## Documentation (2 pts)
 
 -   Well written comments that clearly explain the purpose of each
