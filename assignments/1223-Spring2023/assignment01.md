@@ -34,7 +34,7 @@ points being deducted.
 Write a program to help farmers estimate the weight of corn stored
 in cylindrical silos.  Each silo's dimensions are measured in radius $r$ and
 height $h$ in meters.  For the purposes of this exercise, you can assume silos
-are perfect cylinders whose volume (cubic meters, $$m^3$ ) is computed as
+are perfect cylinders whose volume (cubic meters, $m^3$ ) is computed as
 
 $$h \times \pi \times r^2$$
 
@@ -47,7 +47,7 @@ $h = 20$ meters and is 35% (.35) full would have
 
 $$\pi (5)^2 \cdot 20 \cdot .35 = 549.778714378$$
 
-cubic meters ($m^3$) of corn which would have a total weight of
+cubic meters of corn which would have a total weight of
 $396296.990685$ kg.
 
 Write a program that reads in the above measures ( $r$, $h$, and $p$; radius
