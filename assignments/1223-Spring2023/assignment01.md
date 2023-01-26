@@ -20,7 +20,7 @@ points being deducted.
 * **For those in the main section(s)**: your programs must be
   written in Java, should accept command line arguments as specified,
   and execute successfully on the webgrader.  All your classes should
-  be in the *default package* and your source files should have the
+  be in the `unl.soc` package and your source files should have the
   following names: `Corn.java, Cheer.java, WeatherData.java`
 
 * **For those in the honors section**: your programs must be written
